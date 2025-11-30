@@ -598,19 +598,19 @@ msgstr "Verbindingsfout"
 #: cps/admin.py:2283 cps/admin.py:2326
 #, python-format
 msgid "Connection failed: Server returned status code %(code)s"
-msgstr ""
+msgstr "Connectie gefaald: Server geeft deze status code %(code)s"
 
 #: cps/admin.py:2285 cps/admin.py:2328
 msgid "Connection failed: Could not connect to server."
-msgstr ""
+msgstr "Connectie gefaald: Kan geen verbinding met de server krijgen. "
 
 #: cps/admin.py:2287 cps/admin.py:2330
 msgid "Connection failed: Request timed out."
-msgstr ""
+msgstr "Connectie gefaald: Time-out op verzoek"
 
 #: cps/admin.py:2289 cps/admin.py:2332
 msgid "Connection failed: Invalid JSON in response."
-msgstr ""
+msgstr "Connectie gefaald: Invalide JSON in reactie."
 
 #: cps/admin.py:2292 cps/admin.py:2335
 #, fuzzy
@@ -620,28 +620,28 @@ msgstr "Onbekende fout opgetreden. Probeer het later nog eens."
 #: cps/admin.py:2318
 #, python-format
 msgid "Metadata is missing required fields: %(fields)s"
-msgstr ""
+msgstr "%(fields)s ontbreken van de verplichte velden"
 
 #: cps/admin.py:2323
 #, python-format
 msgid "Metadata URL is valid! Found %(count)s endpoints."
-msgstr ""
+msgstr "Metadata URL is valide! %(count)s endpoints gevonden."
 
 #: cps/constants.py:207
 msgid "Czech"
-msgstr ""
+msgstr "Tjechisch"
 
 #: cps/constants.py:208
 msgid "German"
-msgstr ""
+msgstr "Duits"
 
 #: cps/constants.py:209
 msgid "Greek"
-msgstr ""
+msgstr "Grieks"
 
 #: cps/constants.py:210
 msgid "Spanish"
-msgstr ""
+msgstr "Spaans"
 
 #: cps/constants.py:211
 #, fuzzy
@@ -650,92 +650,92 @@ msgstr "Voltooid"
 
 #: cps/constants.py:212
 msgid "French"
-msgstr ""
+msgstr "Frans"
 
 #: cps/constants.py:213
 msgid "Galician"
-msgstr ""
+msgstr "Galicisch"
 
 #: cps/constants.py:214
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongaars"
 
 #: cps/constants.py:215
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesisch"
 
 #: cps/constants.py:216
 msgid "Italian"
-msgstr ""
+msgstr "Italiaans"
 
 #: cps/constants.py:217
 msgid "Japanese"
-msgstr ""
+msgstr "Japans"
 
 #: cps/constants.py:218
 msgid "Khmer"
-msgstr ""
+msgstr "Cambodjaans"
 
 #: cps/constants.py:219
 msgid "Korean"
-msgstr ""
+msgstr "Koreaans"
 
 #: cps/constants.py:220
 msgid "Dutch"
-msgstr ""
+msgstr "Nederlands"
 
 #: cps/constants.py:221
 msgid "Norwegian"
-msgstr ""
+msgstr "Noors"
 
 #: cps/constants.py:222
 #, fuzzy
 msgid "Polish"
-msgstr "Uitgever"
+msgstr "Pools"
 
 #: cps/constants.py:223
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugees"
 
 #: cps/constants.py:224
 msgid "Portuguese (Brazil)"
-msgstr ""
+msgstr "Portugees (Brazilie)"
 
 #: cps/constants.py:225
 msgid "Russian"
-msgstr ""
+msgstr "Russisch"
 
 #: cps/constants.py:226
 msgid "Slovak"
-msgstr ""
+msgstr "Slowakees"
 
 #: cps/constants.py:227
 msgid "Slovenian"
-msgstr ""
+msgstr "Sloveens"
 
 #: cps/constants.py:228
 msgid "Swedish"
-msgstr ""
+msgstr "Zweeds"
 
 #: cps/constants.py:229
 msgid "Turkish"
-msgstr ""
+msgstr "Turks"
 
 #: cps/constants.py:230
 msgid "Ukrainian"
-msgstr ""
+msgstr "Oekraiens"
 
 #: cps/constants.py:231
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamees"
 
 #: cps/constants.py:232
 msgid "Chinese (Simplified, China)"
-msgstr ""
+msgstr "Chinees (Versimpeld, China)"
 
 #: cps/constants.py:233
 msgid "Chinese (Traditional, Taiwan)"
-msgstr ""
+msgstr "Chinees (Traditioneel, Taiwan)"
 
 #: cps/converter.py:20
 msgid "not installed"
@@ -759,7 +759,7 @@ msgstr "Calibre E-Book omzet instellingen"
 #: cps/cwa_functions.py:319 cps/cwa_functions.py:321 cps/cwa_functions.py:325
 #: cps/cwa_functions.py:327 cps/cwa_functions.py:330 cps/cwa_functions.py:332
 msgid "Timestamp"
-msgstr ""
+msgstr "Tijdstempel"
 
 #: cps/cwa_functions.py:319 cps/cwa_functions.py:321
 #, fuzzy
@@ -778,7 +778,7 @@ msgstr "Auteur"
 
 #: cps/cwa_functions.py:319
 msgid "Trigger Type"
-msgstr ""
+msgstr "Trigger Type"
 
 #: cps/cwa_functions.py:321 cps/cwa_functions.py:327
 #, fuzzy
@@ -793,23 +793,23 @@ msgstr "naam"
 
 #: cps/cwa_functions.py:325
 msgid "Manual?"
-msgstr ""
+msgstr "Handmatig?"
 
 #: cps/cwa_functions.py:325
 msgid "No. Fixes"
-msgstr ""
+msgstr "Nee. Aan het repareren"
 
 #: cps/cwa_functions.py:325 cps/cwa_functions.py:330 cps/cwa_functions.py:332
 msgid "Original Backed Up?"
-msgstr ""
+msgstr "Is het origineel gebackupped?"
 
 #: cps/cwa_functions.py:327
 msgid "Fixes Applied"
-msgstr ""
+msgstr "Reparaties toegepast"
 
 #: cps/cwa_functions.py:332
 msgid "Original Format"
-msgstr ""
+msgstr "Oorspronkelijk formaat"
 
 #: cps/cwa_functions.py:332
 #, fuzzy
